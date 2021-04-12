@@ -1,1 +1,1 @@
-web: gunicorn firstsight.wsgi
+web: gunicorn firstsight.wsgi --log-file
